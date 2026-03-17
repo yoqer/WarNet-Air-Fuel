@@ -9,4 +9,4 @@ Sin componentes ni gases toxicos inflamables; su deflagración apenas conlleva r
 Su vida util, puede variar, y presenta unas pruebas necesarias para el [WarNet-Satelital](http://GitHub.com/yoqer/WarNet-Satelital); con componentes mas aeroespaciales que facultan a la estacion espacial orbitante satelital, para los aterrizajes, anodizajes y abordados, ya en orbita como en condiciones planetarias de gravedad, magnetismo, fuerzas externas o condicion extrema.
 
 
-Este modelo puede acoplarse a los distintos vehículos no tripulados para las acciones pertinentes, desplazamientos peligrosos, y son los dispositivos con los que el WarNet-Satelital](https://GitHub.com/yoqer/WarNet-Satelital) realiza pruebas y anodizados de exploracion fuera o dentro de estratosferas Planetarias.
+Este modelo puede acoplarse a los distintos vehículos no tripulados para las acciones pertinentes, desplazamientos peligrosos, y son dispositivos con los que el [WarNet-Satelital](https://GitHub.com/yoqer/WarNet-Satelital) realiza pruebas y anodizados de exploracion fuera o dentro de estratosferas Planetarias.
